@@ -1,14 +1,16 @@
 <template>
-  <nav class="menu">
-    <!-- <router-link to="/">Emisoras</router-link> |
+  <div>
+    <nav class="menu">
+      <!-- <router-link to="/">Emisoras</router-link> |
     <router-link to="/about">Podcast</router-link>
     <router-link to="/about">Mi Lista</router-link>
     <router-link to="/about">Podcast</router-link> -->
-    <li>Emisoras</li>
-    <li>Podcast</li>
-    <li>Mi Lista</li>
-    <li>Podcast</li>
-  </nav>
+      <li>Emisoras</li>
+      <li>Podcast</li>
+      <li>Mi Lista</li>
+      <li>Podcast</li>
+    </nav>
+  </div>
 </template>
 
 <script>
