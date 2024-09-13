@@ -11,7 +11,7 @@
 <script>
 import axios from "axios";
 export default {
-  name: "ImagesEmisoras",
+  name: "ImgEmisoras",
   methods: {
     showItems: async function () {
       await axios
